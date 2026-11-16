@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# 本地草稿与临时文件
+*.tmp
+*.bak
+*.orig
+*.log
+.tmp/
+scratch/
+
+# 本地数据库与缓存
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# 打包产物
+*.tgz
+*.zip
